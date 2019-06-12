@@ -3,6 +3,7 @@ typecho 迁移到 Hexo
 原作者：
 https://github.com/zhourongyu/Typecho2Hexo
 
+
 我只是拿过来改为python3
 
 
